@@ -1,0 +1,13 @@
+name: mcasapp
+title: mcasapp
+username:
+account: cawenz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5288606
+bundleId: 5345370
+url: https://cawenz.shinyapps.io/mcasapp/
+when: 1638971049.55078
+lastSyncTime: 1638971049.55079
+asMultiple: FALSE
+asStatic: FALSE
